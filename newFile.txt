@@ -1,0 +1,3 @@
+Introducing changes into this newFile.txt
+Another changes. 
+Alex has a cat.
